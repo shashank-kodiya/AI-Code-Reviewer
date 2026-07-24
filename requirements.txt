@@ -1,0 +1,11 @@
+# Web framework
+Flask>=3.0.0
+Flask-Cors>=4.0.0
+
+# Static analysis tools
+pylint>=3.0.0
+mypy>=1.7.0
+bandit>=1.7.8
+
+# Production server (required for Render)
+gunicorn>=21.2.0
